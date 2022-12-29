@@ -1,7 +1,4 @@
-//Derek Osborne
-//CMIS 242
-//Final Project
-//12/11/2022.
+
 import java.util.Calendar;
 
 /**
